@@ -79,7 +79,7 @@ int main()
 			std::cout << "There ";
 			if (size == 0) std::cout << "are no integers ";
 			else if (size == 1) std::cout << "is " << size << " integer ";
-			else std::cout << "There are " << size << " integers ";
+			else std::cout << "are " << size << " integers ";
 			std::cout << "in the queue!" << std::endl << std::endl;
 			break;
 		}
